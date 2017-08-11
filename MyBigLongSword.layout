@@ -2,19 +2,14 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="font.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="280" topLine="0" />
-		</Cursor>
-	</File>
 	<File name="main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="1320" topLine="12" />
+			<Cursor1 position="1868" topLine="53" />
 		</Cursor>
 	</File>
-	<File name="audio.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+	<File name="font.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="3437" topLine="126" />
+			<Cursor1 position="515" topLine="6" />
 		</Cursor>
 	</File>
 	<File name="console_draw3.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
@@ -22,14 +17,19 @@
 			<Cursor1 position="2669" topLine="40" />
 		</Cursor>
 	</File>
+	<File name="audio.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3437" topLine="126" />
+		</Cursor>
+	</File>
 	<File name="kb_input2.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="402" topLine="8" />
 		</Cursor>
 	</File>
-	<File name="font.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+	<File name="font.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="515" topLine="6" />
+			<Cursor1 position="280" topLine="0" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

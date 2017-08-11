@@ -93,7 +93,7 @@ int main()
 
     Image *player = read_image("images/ascii/player.pixel", "images/ascii/player.color");
 
-    PlaySound(TEXT("wingoffreedom.wav"), NULL, SND_ASYNC|SND_FILENAME);
+    //PlaySound(TEXT("wingoffreedom.wav"), NULL, SND_ASYNC|SND_FILENAME);
 
     while(scene_Opening){
     Image *open_background = read_image("images/ascii/open_background.pixel", "images/ascii/open_background.color");
@@ -138,7 +138,7 @@ int main()
     }
 }
 
-    PlaySound(TEXT("Legend-Of-Zelda-Them.wav"), NULL, SND_ASYNC|SND_FILENAME);
+    //PlaySound(TEXT("Legend-Of-Zelda-Them.wav"), NULL, SND_ASYNC|SND_FILENAME);
 
     while(scene_Playing){
         Image *background = read_image("images/ascii/background.pixel", "images/ascii/background.color");
@@ -182,7 +182,7 @@ int main()
                 drawCmdWindow();
                     }
                 }
-                PlaySound(TEXT("hahaha.wav"), NULL, SND_ASYNC|SND_FILENAME);
+                //PlaySound(TEXT("hahaha.wav"), NULL, SND_ASYNC|SND_FILENAME);
                 Sleep(5000);
                 while(1){
                 clearScreen();
